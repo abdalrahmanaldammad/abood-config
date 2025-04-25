@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank cards related abood the best in the world and the syria APIs "
+  message: "Welcome to EazyBank cards related abood the best in the world and the syria Hello world APIs "
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "sandra@eazybank.com"
